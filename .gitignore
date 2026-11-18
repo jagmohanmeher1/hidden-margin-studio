@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Remotion cache & rendered media outputs
+.remotion/
+out/
+dist/
+
+# Generated procedural audio (auto-built via scripts/generate_ep01_audio.py)
+public/audio/*.wav
+
+# Environment & OS files
+.DS_Store
+*.log
+.env
+.env.*

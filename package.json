@@ -1,0 +1,31 @@
+{
+  "name": "hidden-margin-studio",
+  "version": "1.0.0",
+  "description": "Programmatic 60fps dark-mode editorial video engine for Hidden Margin (YT Shorts, IG Reels, TikTok)",
+  "private": true,
+  "scripts": {
+    "predev": "python3 scripts/generate_ep01_audio.py",
+    "dev": "remotion studio src/index.ts --port 3000 --no-open --disable-keyboard-shortcuts",
+    "prestudio": "python3 scripts/generate_ep01_audio.py",
+    "studio": "remotion studio src/index.ts --port 3000 --no-open --disable-keyboard-shortcuts",
+    "prerender:ep01": "python3 scripts/generate_ep01_audio.py",
+    "render:ep01": "remotion render src/index.ts Ep01-StarbucksBank out/ep01-starbucks-bank.mp4",
+    "prerender:ep01:preview": "python3 scripts/generate_ep01_audio.py",
+    "render:ep01:preview": "remotion render src/index.ts Ep01-StarbucksBank-SafeZonePreview out/ep01-safezone-preview.mp4",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fontsource/jetbrains-mono": "^5.1.0",
+    "@fontsource/plus-jakarta-sans": "^5.1.0",
+    "@remotion/cli": "4.0.544",
+    "@remotion/player": "4.0.544",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remotion": "4.0.544"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.7.0"
+  }
+}
