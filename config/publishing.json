@@ -1,9 +1,9 @@
 {
   "projectTitle": "Hidden Margin",
-  "googleDriveFolderName": "Hidden Margin — Final Videos",
+  "googleDriveFolderName": "Hidden Margin \u2014 Final Videos",
   "googleDriveFolderId": "12XNA0kVhccy1o_toWQNM9tQIvTFNDWNc",
   "googleDriveFolderUrl": "https://drive.google.com/drive/folders/12XNA0kVhccy1o_toWQNM9tQIvTFNDWNc",
-  "publishingSpreadsheetTitle": "Hidden Margin — Video Publishing Hub",
+  "publishingSpreadsheetTitle": "Hidden Margin \u2014 Video Publishing Hub",
   "publishingSpreadsheetId": "1XuEdAb-hchvJ1egNnzM9EeGEMO8kNJD1xZSHxkYiMXQ",
   "publishingSpreadsheetUrl": "https://docs.google.com/spreadsheets/d/1XuEdAb-hchvJ1egNnzM9EeGEMO8kNJD1xZSHxkYiMXQ/edit",
   "episodes": {
@@ -24,6 +24,12 @@
       "durationSec": 57.63,
       "driveFileId": "1w5lwDZ6h6Kg2qKGc2oddvnYF9VIBr7dv",
       "driveFileUrl": "https://drive.google.com/file/d/1w5lwDZ6h6Kg2qKGc2oddvnYF9VIBr7dv/view"
+    },
+    "EP04": {
+      "title": "Airlines Are Frequent-Flyer Banks",
+      "durationSec": 56.18,
+      "driveFileId": "1vzx2gbS12TVtXPNSEWlTlB6_rjnpQxUJ",
+      "driveFileUrl": "https://drive.google.com/file/d/1vzx2gbS12TVtXPNSEWlTlB6_rjnpQxUJ/view"
     }
   }
 }
