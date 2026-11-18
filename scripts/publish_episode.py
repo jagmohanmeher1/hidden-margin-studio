@@ -105,6 +105,8 @@ def publish_one(ep_code: str) -> None:
             meta["composition"],
             meta["mp4"],
             "--concurrency=2",
+            "--x264-preset=veryfast",
+            "--jpeg-quality=85",
             "--browser-executable=/usr/bin/chromium",
         ]
     )
