@@ -9,8 +9,15 @@
   "episodes": {
     "EP01": {
       "title": "Starbucks' $2B Shadow Bank",
+      "durationSec": 54.46,
       "driveFileId": "1xkq6kzYsSvzFuEmua5nFG0tWBCSY_YdV",
       "driveFileUrl": "https://drive.google.com/file/d/1xkq6kzYsSvzFuEmua5nFG0tWBCSY_YdV/view"
+    },
+    "EP02": {
+      "title": "The Pudding Guy's 1.25M Air Miles",
+      "durationSec": 62.97,
+      "driveFileId": "1CFt_wA9m-j3-9FFdykIEYmiB5iPY7JG6",
+      "driveFileUrl": "https://drive.google.com/file/d/1CFt_wA9m-j3-9FFdykIEYmiB5iPY7JG6/view"
     }
   }
 }
