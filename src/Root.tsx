@@ -22,7 +22,7 @@ export const RemotionRoot: React.FC = () => {
           showSafeZoneGuide: false,
           platformOverlay: 'none',
           enableSoundtrack: true,
-          voiceoverPath: '',
+          voiceoverPath: 'audio/ep01-voiceover.wav',
           targetDepositBillions: 1.84,
         }}
       />
@@ -38,7 +38,7 @@ export const RemotionRoot: React.FC = () => {
           showSafeZoneGuide: true,
           platformOverlay: 'tiktok',
           enableSoundtrack: true,
-          voiceoverPath: '',
+          voiceoverPath: 'audio/ep01-voiceover.wav',
           targetDepositBillions: 1.84,
         }}
       />

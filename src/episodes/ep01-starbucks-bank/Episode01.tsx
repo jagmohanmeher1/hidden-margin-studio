@@ -24,7 +24,7 @@ export const Episode01: React.FC<Episode01Props> = ({
   showSafeZoneGuide = false,
   platformOverlay = 'none',
   enableSoundtrack = true,
-  voiceoverPath = '',
+  voiceoverPath = 'audio/ep01-voiceover.wav',
   targetDepositBillions = 1.84,
 }) => {
   const frame = useCurrentFrame();
@@ -35,6 +35,20 @@ export const Episode01: React.FC<Episode01Props> = ({
     EP01_SCENES.find((s) => currentSec >= s.startSec && currentSec < s.endSec) ??
     EP01_SCENES[EP01_SCENES.length - 1];
 
+  const getSceneBounds = (id: string) => {
+    const sc = EP01_SCENES.find((s) => s.id === id)!;
+    const from = Math.round(sc.startSec * fps);
+    const to = Math.round(sc.endSec * fps);
+    return {from, durationInFrames: Math.max(1, to - from)};
+  };
+
+  const s1 = getSceneBounds('hero-morph');
+  const s2 = getSceneBounds('bank-comparison');
+  const s3 = getSceneBounds('reload-trap');
+  const s4 = getSceneBounds('system-flow');
+  const s5 = getSceneBounds('breakage-profit');
+  const s6 = getSceneBounds('loop-outro');
+
   return (
     <SafeZoneFrame
       episodeCode="HM // EP.01"
@@ -43,63 +57,37 @@ export const Episode01: React.FC<Episode01Props> = ({
       showSafeZoneGuide={showSafeZoneGuide}
       platformOverlay={platformOverlay}
     >
-      {/* Synced Dark-Thriller Score + Frame-Accurate UI Sound Design */}
-      {enableSoundtrack && <Audio src={staticFile('audio/ep01-soundtrack.wav')} volume={0.88} />}
+      {/* Ducked Dark-Thriller Score + Frame-Accurate UI Sound Design (-11.7 dB under VO) */}
+      {enableSoundtrack && <Audio src={staticFile('audio/ep01-soundtrack.wav')} volume={0.26} />}
 
-      {/* Drop-in Custom Cloned / ElevenLabs Voiceover Track */}
+      {/* Custom-Blended Neural Voiceover Narration */}
       {voiceoverPath ? <Audio src={staticFile(voiceoverPath)} volume={1.0} /> : null}
 
-      {/* Beat 1: 0.0s - 3.2s */}
-      <Sequence from={0} durationInFrames={Math.round(3.2 * fps)} name="01-HeroMorph">
+      <Sequence from={s1.from} durationInFrames={s1.durationInFrames} name="01-HeroMorph">
         <HeroMorphScene targetDepositBillions={targetDepositBillions} />
       </Sequence>
 
-      {/* Beat 2: 3.2s - 11.2s */}
-      <Sequence
-        from={Math.round(3.2 * fps)}
-        durationInFrames={Math.round(8.0 * fps)}
-        name="02-BankComparison"
-      >
+      <Sequence from={s2.from} durationInFrames={s2.durationInFrames} name="02-BankComparison">
         <BankComparisonScene />
       </Sequence>
 
-      {/* Beat 3: 11.2s - 20.2s */}
-      <Sequence
-        from={Math.round(11.2 * fps)}
-        durationInFrames={Math.round(9.0 * fps)}
-        name="03-ReloadTrap"
-      >
+      <Sequence from={s3.from} durationInFrames={s3.durationInFrames} name="03-ReloadTrap">
         <ReloadTrapScene />
       </Sequence>
 
-      {/* Beat 4: 20.2s - 31.2s */}
-      <Sequence
-        from={Math.round(20.2 * fps)}
-        durationInFrames={Math.round(11.0 * fps)}
-        name="04-SystemFlow"
-      >
+      <Sequence from={s4.from} durationInFrames={s4.durationInFrames} name="04-SystemFlow">
         <SystemFlowScene />
       </Sequence>
 
-      {/* Beat 5: 31.2s - 44.0s */}
-      <Sequence
-        from={Math.round(31.2 * fps)}
-        durationInFrames={Math.round(12.8 * fps)}
-        name="05-BreakageProfit"
-      >
+      <Sequence from={s5.from} durationInFrames={s5.durationInFrames} name="05-BreakageProfit">
         <BreakageProfitScene />
       </Sequence>
 
-      {/* Beat 6: 44.0s - 52.0s */}
-      <Sequence
-        from={Math.round(44.0 * fps)}
-        durationInFrames={Math.round(8.0 * fps)}
-        name="06-LoopOutro"
-      >
+      <Sequence from={s6.from} durationInFrames={s6.durationInFrames} name="06-LoopOutro">
         <LoopOutroScene />
       </Sequence>
 
-      {/* Word-Synced Insider Thriller Kinetic Captions */}
+      {/* Millisecond-Synced Insider Thriller Kinetic Captions */}
       <KineticCaptions phrases={EP01_CAPTIONS} />
     </SafeZoneFrame>
   );

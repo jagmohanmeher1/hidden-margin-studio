@@ -1,0 +1,474 @@
+{
+  "totalDurationSec": 54.46,
+  "scenes": [
+    {
+      "id": "hero-morph",
+      "startSec": 0.0,
+      "endSec": 7.367,
+      "sectionLabel": "01 / SHADOW LEDGER",
+      "mood": "emerald"
+    },
+    {
+      "id": "bank-comparison",
+      "startSec": 7.367,
+      "endSec": 16.211,
+      "sectionLabel": "02 / DEPOSIT SCALE",
+      "mood": "emerald"
+    },
+    {
+      "id": "reload-trap",
+      "startSec": 16.211,
+      "endSec": 26.825,
+      "sectionLabel": "03 / RELOAD FRICTION",
+      "mood": "amber"
+    },
+    {
+      "id": "system-flow",
+      "startSec": 26.825,
+      "endSec": 36.843,
+      "sectionLabel": "04 / LEGAL LOOPHOLE",
+      "mood": "crimson"
+    },
+    {
+      "id": "breakage-profit",
+      "startSec": 36.843,
+      "endSec": 46.519,
+      "sectionLabel": "05 / PURE BREAKAGE",
+      "mood": "crimson"
+    },
+    {
+      "id": "loop-outro",
+      "startSec": 46.519,
+      "endSec": 54.46,
+      "sectionLabel": "06 / FREE FLOAT",
+      "mood": "amber"
+    }
+  ],
+  "captions": [
+    {
+      "startSec": 0.08,
+      "endSec": 2.908,
+      "words": [
+        {
+          "text": "Starbucks"
+        },
+        {
+          "text": "isn't"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "coffee"
+        },
+        {
+          "text": "company"
+        },
+        {
+          "text": "anymore\u2014"
+        }
+      ]
+    },
+    {
+      "startSec": 2.908,
+      "endSec": 7.367,
+      "words": [
+        {
+          "text": "it's"
+        },
+        {
+          "text": "an"
+        },
+        {
+          "text": "unregulated",
+          "tone": "amber"
+        },
+        {
+          "text": "bank",
+          "tone": "emerald"
+        },
+        {
+          "text": "holding"
+        },
+        {
+          "text": "nearly"
+        },
+        {
+          "text": "$2B",
+          "tone": "emerald"
+        },
+        {
+          "text": "of"
+        },
+        {
+          "text": "your"
+        },
+        {
+          "text": "cash."
+        }
+      ]
+    },
+    {
+      "startSec": 7.367,
+      "endSec": 11.027,
+      "words": [
+        {
+          "text": "Right"
+        },
+        {
+          "text": "now,"
+        },
+        {
+          "text": "customers"
+        },
+        {
+          "text": "keep"
+        },
+        {
+          "text": "more"
+        },
+        {
+          "text": "money",
+          "tone": "emerald"
+        },
+        {
+          "text": "inside"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "Starbucks"
+        },
+        {
+          "text": "app"
+        }
+      ]
+    },
+    {
+      "startSec": 11.027,
+      "endSec": 16.211,
+      "words": [
+        {
+          "text": "than"
+        },
+        {
+          "text": "85%",
+          "tone": "emerald"
+        },
+        {
+          "text": "of"
+        },
+        {
+          "text": "American"
+        },
+        {
+          "text": "regional"
+        },
+        {
+          "text": "banks"
+        },
+        {
+          "text": "hold"
+        },
+        {
+          "text": "in"
+        },
+        {
+          "text": "total"
+        },
+        {
+          "text": "deposits."
+        }
+      ]
+    },
+    {
+      "startSec": 16.211,
+      "endSec": 22.089,
+      "words": [
+        {
+          "text": "Here's"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "genius"
+        },
+        {
+          "text": "trap:",
+          "tone": "amber"
+        },
+        {
+          "text": "preset"
+        },
+        {
+          "text": "reloads"
+        },
+        {
+          "text": "of"
+        },
+        {
+          "text": "$10, $25, or $50\u2014",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 22.089,
+      "endSec": 26.825,
+      "words": [
+        {
+          "text": "never"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "exact"
+        },
+        {
+          "text": "latte"
+        },
+        {
+          "text": "price,"
+        },
+        {
+          "text": "trapping",
+          "tone": "amber"
+        },
+        {
+          "text": "your"
+        },
+        {
+          "text": "leftover"
+        },
+        {
+          "text": "change."
+        }
+      ]
+    },
+    {
+      "startSec": 26.825,
+      "endSec": 30.976,
+      "words": [
+        {
+          "text": "Because"
+        },
+        {
+          "text": "that"
+        },
+        {
+          "text": "balance"
+        },
+        {
+          "text": "only"
+        },
+        {
+          "text": "buys"
+        },
+        {
+          "text": "coffee,"
+        },
+        {
+          "text": "banking",
+          "tone": "crimson"
+        },
+        {
+          "text": "laws",
+          "tone": "crimson"
+        },
+        {
+          "text": "don't"
+        },
+        {
+          "text": "apply."
+        }
+      ]
+    },
+    {
+      "startSec": 30.976,
+      "endSec": 36.843,
+      "words": [
+        {
+          "text": "Zero",
+          "tone": "crimson"
+        },
+        {
+          "text": "withdrawals."
+        },
+        {
+          "text": "0.00%",
+          "tone": "crimson"
+        },
+        {
+          "text": "interest\u2014"
+        },
+        {
+          "text": "funding"
+        },
+        {
+          "text": "new"
+        },
+        {
+          "text": "stores"
+        },
+        {
+          "text": "for"
+        },
+        {
+          "text": "free.",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 36.843,
+      "endSec": 42.38,
+      "words": [
+        {
+          "text": "Even"
+        },
+        {
+          "text": "wilder?"
+        },
+        {
+          "text": "Every"
+        },
+        {
+          "text": "year,"
+        },
+        {
+          "text": "roughly"
+        },
+        {
+          "text": "$200M",
+          "tone": "crimson"
+        },
+        {
+          "text": "on"
+        },
+        {
+          "text": "forgotten"
+        },
+        {
+          "text": "cards"
+        }
+      ]
+    },
+    {
+      "startSec": 42.38,
+      "endSec": 46.519,
+      "words": [
+        {
+          "text": "is"
+        },
+        {
+          "text": "never"
+        },
+        {
+          "text": "spent\u2014"
+        },
+        {
+          "text": "turning"
+        },
+        {
+          "text": "straight"
+        },
+        {
+          "text": "into"
+        },
+        {
+          "text": "pure",
+          "tone": "emerald"
+        },
+        {
+          "text": "corporate"
+        },
+        {
+          "text": "profit.",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 46.519,
+      "endSec": 49.624,
+      "words": [
+        {
+          "text": "You"
+        },
+        {
+          "text": "think"
+        },
+        {
+          "text": "you're"
+        },
+        {
+          "text": "collecting"
+        },
+        {
+          "text": "gold",
+          "tone": "amber"
+        },
+        {
+          "text": "stars",
+          "tone": "amber"
+        },
+        {
+          "text": "for"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "free"
+        },
+        {
+          "text": "drink,"
+        }
+      ]
+    },
+    {
+      "startSec": 49.624,
+      "endSec": 54.46,
+      "words": [
+        {
+          "text": "when"
+        },
+        {
+          "text": "you're"
+        },
+        {
+          "text": "handing"
+        },
+        {
+          "text": "Wall"
+        },
+        {
+          "text": "Street"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "free",
+          "tone": "amber"
+        },
+        {
+          "text": "loan\u2014",
+          "tone": "amber"
+        },
+        {
+          "text": "which"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "why..."
+        }
+      ]
+    }
+  ]
+}
