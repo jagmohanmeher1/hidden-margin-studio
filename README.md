@@ -17,11 +17,13 @@ npm run audio:ep01
 # 3. Launch interactive Remotion Studio (port 3000)
 npm run studio
 
-# 4. Render voiced 1080x1920 @ 60fps master MP4
+# 4. Render voiced 1080x1920 @ 60fps master MP4s
 npm run render:ep01
+npm run render:ep02
 
-# 5. Upload final MP4 into the "Hidden Margin — Final Videos" Google Drive folder
+# 5. Upload final MP4s into the "Hidden Margin — Final Videos" Google Drive folder
 npm run upload:ep01
+npm run upload:ep02
 
 # Typecheck all scenes and primitives
 npm run typecheck
@@ -29,10 +31,11 @@ npm run typecheck
 
 ## Architecture
 
-- `scripts/generate_ep01_voiceover.py` — Synthesizes a bespoke documentary thriller voice blend (`0.55 am_michael + 0.30 am_onyx + 0.15 bm_daniel`) via `kokoro-onnx`, writes `public/audio/ep01-voiceover.wav`, and outputs exact phrase/scene timestamps to `src/episodes/ep01-starbucks-bank/timings.json`.
-- `scripts/generate_ep01_audio.py` — Generates `public/audio/ep01-soundtrack.wav` dynamically locked to the voiceover scene boundaries in `timings.json`.
+- `scripts/generate_ep01_voiceover.py` & `scripts/generate_ep02_voiceover.py` — Synthesize the bespoke documentary thriller voice blend (`0.55 am_michael + 0.30 am_onyx + 0.15 bm_daniel`) via `kokoro-onnx` and output exact millisecond phrase/scene timestamps (`timings.json`).
+- `scripts/generate_ep01_audio.py` & `scripts/generate_ep02_audio.py` — Generate episode-specific dark-thriller scores and synced SFX (vault locks, barcode scanners, airline cabin chimes) dynamically locked to `timings.json`.
 - `scripts/upload_to_drive.sh` — Uploads rendered final MP4 exports directly to the project's Google Drive folder (`Hidden Margin — Final Videos`).
 - `src/theme/tokens.ts` & `src/theme/fonts.ts` — Dark-mode color tokens, spring physics presets, bundled local `@fontsource` fonts, and cross-platform safe-zone margins.
 - `src/components/layout/SafeZoneFrame.tsx` — Tonal atmospheric backdrop, subtle SVG film grain, editorial masthead + timeline progress hairline, and toggleable TikTok/Reels/Shorts unsafe-zone overlay.
 - `src/components/primitives/` — Reusable 60fps editorial primitives (`AnimatedMoneyTicker`, `ComparisonBarChart`, `ReceiptAndUiCard`, `FlowNodeGraph`, `KineticCaptions`).
-- `src/episodes/ep01-starbucks-bank/` — Complete voiced pilot episode (*"Starbucks' $2B Shadow Bank"*).
+- `src/episodes/ep01-starbucks-bank/` — Episode #1 (*"Starbucks' $2B Shadow Bank"*).
+- `src/episodes/ep02-pudding-guy/` — Episode #2 (*"The Pudding Guy's 1.25M Air Miles"*).

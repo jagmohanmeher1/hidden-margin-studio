@@ -1,0 +1,455 @@
+{
+  "totalDurationSec": 62.97,
+  "scenes": [
+    {
+      "id": "pudding-hero",
+      "startSec": 0.0,
+      "endSec": 9.198,
+      "sectionLabel": "01 / BARCODE ARBITRAGE",
+      "mood": "emerald"
+    },
+    {
+      "id": "promo-math",
+      "startSec": 9.198,
+      "endSec": 20.961,
+      "sectionLabel": "02 / FINE PRINT GLITCH",
+      "mood": "amber"
+    },
+    {
+      "id": "store-sweep",
+      "startSec": 20.961,
+      "endSec": 32.874,
+      "sectionLabel": "03 / GROCERY SWEEP",
+      "mood": "emerald"
+    },
+    {
+      "id": "peeling-bottleneck",
+      "startSec": 32.874,
+      "endSec": 41.672,
+      "sectionLabel": "04 / DEADLINE CRISIS",
+      "mood": "crimson"
+    },
+    {
+      "id": "charity-twist",
+      "startSec": 41.672,
+      "endSec": 52.369,
+      "sectionLabel": "05 / TAX WRITE-OFF",
+      "mood": "emerald"
+    },
+    {
+      "id": "boarding-loop",
+      "startSec": 52.369,
+      "endSec": 62.97,
+      "sectionLabel": "06 / LIFETIME GOLD",
+      "mood": "amber"
+    }
+  ],
+  "captions": [
+    {
+      "startSec": 0.08,
+      "endSec": 5.075,
+      "words": [
+        {
+          "text": "In"
+        },
+        {
+          "text": "1999,",
+          "tone": "amber"
+        },
+        {
+          "text": "one"
+        },
+        {
+          "text": "engineer"
+        },
+        {
+          "text": "bought"
+        },
+        {
+          "text": "12,150",
+          "tone": "emerald"
+        },
+        {
+          "text": "pudding"
+        },
+        {
+          "text": "cups\u2014"
+        }
+      ]
+    },
+    {
+      "startSec": 5.075,
+      "endSec": 9.198,
+      "words": [
+        {
+          "text": "and"
+        },
+        {
+          "text": "legally"
+        },
+        {
+          "text": "unlocked"
+        },
+        {
+          "text": "1,253,000",
+          "tone": "emerald"
+        },
+        {
+          "text": "free"
+        },
+        {
+          "text": "airline",
+          "tone": "emerald"
+        },
+        {
+          "text": "miles.",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 9.198,
+      "endSec": 14.812,
+      "words": [
+        {
+          "text": "Healthy"
+        },
+        {
+          "text": "Choice"
+        },
+        {
+          "text": "offered"
+        },
+        {
+          "text": "1,000",
+          "tone": "emerald"
+        },
+        {
+          "text": "miles",
+          "tone": "emerald"
+        },
+        {
+          "text": "for"
+        },
+        {
+          "text": "every"
+        },
+        {
+          "text": "10"
+        },
+        {
+          "text": "barcodes."
+        }
+      ]
+    },
+    {
+      "startSec": 14.812,
+      "endSec": 20.961,
+      "words": [
+        {
+          "text": "They"
+        },
+        {
+          "text": "expected"
+        },
+        {
+          "text": "$3.00",
+          "tone": "crimson"
+        },
+        {
+          "text": "dinners\u2014"
+        },
+        {
+          "text": "he"
+        },
+        {
+          "text": "spotted"
+        },
+        {
+          "text": "$0.25",
+          "tone": "emerald"
+        },
+        {
+          "text": "pudding.",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 20.961,
+      "endSec": 26.021,
+      "words": [
+        {
+          "text": "Phillips"
+        },
+        {
+          "text": "raided"
+        },
+        {
+          "text": "10",
+          "tone": "amber"
+        },
+        {
+          "text": "grocery"
+        },
+        {
+          "text": "stores,"
+        },
+        {
+          "text": "clearing"
+        },
+        {
+          "text": "every"
+        },
+        {
+          "text": "single"
+        },
+        {
+          "text": "shelf."
+        }
+      ]
+    },
+    {
+      "startSec": 26.021,
+      "endSec": 32.874,
+      "words": [
+        {
+          "text": "His"
+        },
+        {
+          "text": "cover"
+        },
+        {
+          "text": "story:"
+        },
+        {
+          "text": "Y2K",
+          "tone": "amber"
+        },
+        {
+          "text": "prepping\u2014"
+        },
+        {
+          "text": "spending"
+        },
+        {
+          "text": "just"
+        },
+        {
+          "text": "$3,140.",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 32.874,
+      "endSec": 36.696,
+      "words": [
+        {
+          "text": "Then"
+        },
+        {
+          "text": "came"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "catch:",
+          "tone": "crimson"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "deadline",
+          "tone": "crimson"
+        },
+        {
+          "text": "was"
+        },
+        {
+          "text": "days"
+        },
+        {
+          "text": "away."
+        }
+      ]
+    },
+    {
+      "startSec": 36.696,
+      "endSec": 41.672,
+      "words": [
+        {
+          "text": "Peeling"
+        },
+        {
+          "text": "12,150",
+          "tone": "crimson"
+        },
+        {
+          "text": "foil"
+        },
+        {
+          "text": "labels"
+        },
+        {
+          "text": "by"
+        },
+        {
+          "text": "hand"
+        },
+        {
+          "text": "was"
+        },
+        {
+          "text": "impossible.",
+          "tone": "crimson"
+        }
+      ]
+    },
+    {
+      "startSec": 41.672,
+      "endSec": 46.411,
+      "words": [
+        {
+          "text": "His"
+        },
+        {
+          "text": "genius"
+        },
+        {
+          "text": "move:",
+          "tone": "amber"
+        },
+        {
+          "text": "donate"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "pudding"
+        },
+        {
+          "text": "to"
+        },
+        {
+          "text": "food",
+          "tone": "emerald"
+        },
+        {
+          "text": "banks,"
+        }
+      ]
+    },
+    {
+      "startSec": 46.411,
+      "endSec": 52.369,
+      "words": [
+        {
+          "text": "volunteers"
+        },
+        {
+          "text": "peeled"
+        },
+        {
+          "text": "every"
+        },
+        {
+          "text": "label\u2014"
+        },
+        {
+          "text": "plus"
+        },
+        {
+          "text": "an"
+        },
+        {
+          "text": "$815",
+          "tone": "emerald"
+        },
+        {
+          "text": "tax",
+          "tone": "emerald"
+        },
+        {
+          "text": "write-off."
+        }
+      ]
+    },
+    {
+      "startSec": 52.369,
+      "endSec": 58.751,
+      "words": [
+        {
+          "text": "For"
+        },
+        {
+          "text": "$2,325",
+          "tone": "emerald"
+        },
+        {
+          "text": "net,"
+        },
+        {
+          "text": "he"
+        },
+        {
+          "text": "scored"
+        },
+        {
+          "text": "31",
+          "tone": "amber"
+        },
+        {
+          "text": "European"
+        },
+        {
+          "text": "flights\u2014"
+        }
+      ]
+    },
+    {
+      "startSec": 58.751,
+      "endSec": 62.97,
+      "words": [
+        {
+          "text": "proving"
+        },
+        {
+          "text": "it"
+        },
+        {
+          "text": "pays"
+        },
+        {
+          "text": "to"
+        },
+        {
+          "text": "read"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "fine",
+          "tone": "amber"
+        },
+        {
+          "text": "print\u2014",
+          "tone": "amber"
+        },
+        {
+          "text": "which"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "why..."
+        }
+      ]
+    }
+  ]
+}

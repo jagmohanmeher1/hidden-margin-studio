@@ -1,20 +1,23 @@
 {
   "name": "hidden-margin-studio",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Programmatic 60fps dark-mode editorial video engine for Hidden Margin (YT Shorts, IG Reels, TikTok)",
   "private": true,
   "scripts": {
     "voice:ep01": "python3 scripts/generate_ep01_voiceover.py",
     "audio:ep01": "python3 scripts/generate_ep01_audio.py",
-    "predev": "python3 scripts/generate_ep01_audio.py",
+    "voice:ep02": "python3 scripts/generate_ep02_voiceover.py",
+    "audio:ep02": "python3 scripts/generate_ep02_audio.py",
+    "predev": "python3 scripts/generate_ep01_audio.py && python3 scripts/generate_ep02_audio.py",
     "dev": "remotion studio src/index.ts --port 3000 --no-open --disable-keyboard-shortcuts",
-    "prestudio": "python3 scripts/generate_ep01_audio.py",
+    "prestudio": "python3 scripts/generate_ep01_audio.py && python3 scripts/generate_ep02_audio.py",
     "studio": "remotion studio src/index.ts --port 3000 --no-open --disable-keyboard-shortcuts",
     "prerender:ep01": "python3 scripts/generate_ep01_audio.py",
     "render:ep01": "remotion render src/index.ts Ep01-StarbucksBank out/ep01-starbucks-bank.mp4",
-    "prerender:ep01:preview": "python3 scripts/generate_ep01_audio.py",
-    "render:ep01:preview": "remotion render src/index.ts Ep01-StarbucksBank-SafeZonePreview out/ep01-safezone-preview.mp4",
+    "prerender:ep02": "python3 scripts/generate_ep02_audio.py",
+    "render:ep02": "remotion render src/index.ts Ep02-PuddingGuy out/ep02-pudding-guy.mp4",
     "upload:ep01": "bash scripts/upload_to_drive.sh out/ep01-starbucks-bank.mp4 'EP01 - Starbucks 2B Shadow Bank (1080x1920 60fps).mp4'",
+    "upload:ep02": "bash scripts/upload_to_drive.sh out/ep02-pudding-guy.mp4 'EP02 - The Pudding Guy 1.25M Air Miles (1080x1920 60fps).mp4'",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
