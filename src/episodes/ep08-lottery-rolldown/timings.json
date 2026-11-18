@@ -1,0 +1,451 @@
+{
+  "totalDurationSec": 73.6,
+  "scenes": [
+    {
+      "id": "lottery-hero",
+      "startSec": 0.0,
+      "endSec": 14.156,
+      "sectionLabel": "01 / 3-MINUTE MATH",
+      "mood": "emerald"
+    },
+    {
+      "id": "rolldown-quirk",
+      "startSec": 14.156,
+      "endSec": 25.267,
+      "sectionLabel": "02 / THE ROLLDOWN QUIRK",
+      "mood": "amber"
+    },
+    {
+      "id": "town-syndicate",
+      "startSec": 25.267,
+      "endSec": 38.959,
+      "sectionLabel": "03 / HOMETOWN SYNDICATE",
+      "mood": "emerald"
+    },
+    {
+      "id": "massachusetts-showdown",
+      "startSec": 38.959,
+      "endSec": 51.392,
+      "sectionLabel": "04 / MIT CLASH",
+      "mood": "amber"
+    },
+    {
+      "id": "state-audit",
+      "startSec": 51.392,
+      "endSec": 63.676,
+      "sectionLabel": "05 / AUDIT VERDICT",
+      "mood": "crimson"
+    },
+    {
+      "id": "lottery-loop-outro",
+      "startSec": 63.676,
+      "endSec": 73.6,
+      "sectionLabel": "06 / PURE ARITHMETIC",
+      "mood": "emerald"
+    }
+  ],
+  "captions": [
+    {
+      "startSec": 0.08,
+      "endSec": 7.325,
+      "words": [
+        {
+          "text": "A"
+        },
+        {
+          "text": "retiree"
+        },
+        {
+          "text": "read"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "brochure"
+        },
+        {
+          "text": "for"
+        },
+        {
+          "text": "3",
+          "tone": "amber"
+        },
+        {
+          "text": "minutes",
+          "tone": "amber"
+        },
+        {
+          "text": "and"
+        },
+        {
+          "text": "spotted"
+        },
+        {
+          "text": "$1.60",
+          "tone": "emerald"
+        },
+        {
+          "text": "value—"
+        }
+      ]
+    },
+    {
+      "startSec": 7.325,
+      "endSec": 14.156,
+      "words": [
+        {
+          "text": "legally"
+        },
+        {
+          "text": "beating"
+        },
+        {
+          "text": "two"
+        },
+        {
+          "text": "state"
+        },
+        {
+          "text": "lotteries"
+        },
+        {
+          "text": "for"
+        },
+        {
+          "text": "$26M",
+          "tone": "emerald"
+        },
+        {
+          "text": "gross."
+        }
+      ]
+    },
+    {
+      "startSec": 14.156,
+      "endSec": 18.265,
+      "words": [
+        {
+          "text": "In"
+        },
+        {
+          "text": "Michigan's"
+        },
+        {
+          "text": "Winfall,"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "jackpot"
+        },
+        {
+          "text": "capped"
+        },
+        {
+          "text": "at"
+        },
+        {
+          "text": "$5.0M.",
+          "tone": "amber"
+        }
+      ]
+    },
+    {
+      "startSec": 18.265,
+      "endSec": 25.267,
+      "words": [
+        {
+          "text": "With"
+        },
+        {
+          "text": "no"
+        },
+        {
+          "text": "jackpot"
+        },
+        {
+          "text": "winner,"
+        },
+        {
+          "text": "all"
+        },
+        {
+          "text": "$5.0M",
+          "tone": "emerald"
+        },
+        {
+          "text": "rolled",
+          "tone": "amber"
+        },
+        {
+          "text": "down",
+          "tone": "amber"
+        },
+        {
+          "text": "to"
+        },
+        {
+          "text": "smaller"
+        },
+        {
+          "text": "prizes."
+        }
+      ]
+    },
+    {
+      "startSec": 25.267,
+      "endSec": 32.939,
+      "words": [
+        {
+          "text": "Bulk"
+        },
+        {
+          "text": "buying"
+        },
+        {
+          "text": "flipped"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "math—"
+        },
+        {
+          "text": "turning"
+        },
+        {
+          "text": "$3,600"
+        },
+        {
+          "text": "into"
+        },
+        {
+          "text": "$6,300.",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 32.939,
+      "endSec": 38.959,
+      "words": [
+        {
+          "text": "His"
+        },
+        {
+          "text": "hometown",
+          "tone": "amber"
+        },
+        {
+          "text": "syndicate",
+          "tone": "amber"
+        },
+        {
+          "text": "pooled"
+        },
+        {
+          "text": "cash"
+        },
+        {
+          "text": "for"
+        },
+        {
+          "text": "600K+"
+        },
+        {
+          "text": "tickets."
+        }
+      ]
+    },
+    {
+      "startSec": 38.959,
+      "endSec": 44.817,
+      "words": [
+        {
+          "text": "Next,"
+        },
+        {
+          "text": "they"
+        },
+        {
+          "text": "drove"
+        },
+        {
+          "text": "900",
+          "tone": "amber"
+        },
+        {
+          "text": "miles",
+          "tone": "amber"
+        },
+        {
+          "text": "to"
+        },
+        {
+          "text": "play"
+        },
+        {
+          "text": "Massachusetts—"
+        }
+      ]
+    },
+    {
+      "startSec": 44.817,
+      "endSec": 51.392,
+      "words": [
+        {
+          "text": "going"
+        },
+        {
+          "text": "head-to-head"
+        },
+        {
+          "text": "with"
+        },
+        {
+          "text": "an"
+        },
+        {
+          "text": "MIT",
+          "tone": "emerald"
+        },
+        {
+          "text": "math",
+          "tone": "emerald"
+        },
+        {
+          "text": "syndicate."
+        }
+      ]
+    },
+    {
+      "startSec": 51.392,
+      "endSec": 57.741,
+      "words": [
+        {
+          "text": "State"
+        },
+        {
+          "text": "auditors",
+          "tone": "crimson"
+        },
+        {
+          "text": "inspected"
+        },
+        {
+          "text": "all"
+        },
+        {
+          "text": "60"
+        },
+        {
+          "text": "bins"
+        },
+        {
+          "text": "of"
+        },
+        {
+          "text": "tickets—"
+        }
+      ]
+    },
+    {
+      "startSec": 57.741,
+      "endSec": 63.676,
+      "words": [
+        {
+          "text": "finding"
+        },
+        {
+          "text": "zero",
+          "tone": "emerald"
+        },
+        {
+          "text": "laws",
+          "tone": "emerald"
+        },
+        {
+          "text": "broken"
+        },
+        {
+          "text": "and"
+        },
+        {
+          "text": "$120M",
+          "tone": "amber"
+        },
+        {
+          "text": "state"
+        },
+        {
+          "text": "profit."
+        }
+      ]
+    },
+    {
+      "startSec": 63.676,
+      "endSec": 68.191,
+      "words": [
+        {
+          "text": "They"
+        },
+        {
+          "text": "netted"
+        },
+        {
+          "text": "$7.75M",
+          "tone": "emerald"
+        },
+        {
+          "text": "in"
+        },
+        {
+          "text": "pure"
+        },
+        {
+          "text": "family"
+        },
+        {
+          "text": "profit—"
+        }
+      ]
+    },
+    {
+      "startSec": 68.191,
+      "endSec": 73.6,
+      "words": [
+        {
+          "text": "because"
+        },
+        {
+          "text": "one"
+        },
+        {
+          "text": "retiree"
+        },
+        {
+          "text": "checked"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "math,",
+          "tone": "amber"
+        },
+        {
+          "text": "which"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "why..."
+        }
+      ]
+    }
+  ]
+}

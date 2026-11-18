@@ -1,0 +1,456 @@
+{
+  "totalDurationSec": 58.41,
+  "scenes": [
+    {
+      "id": "ikea-hero",
+      "startSec": 0.0,
+      "endSec": 8.609,
+      "sectionLabel": "01 / ARCHITECTURAL TRAP",
+      "mood": "amber"
+    },
+    {
+      "id": "gruen-origin",
+      "startSec": 8.609,
+      "endSec": 17.672,
+      "sectionLabel": "02 / THE GRUEN TRANSFER",
+      "mood": "crimson"
+    },
+    {
+      "id": "upstream-anxiety",
+      "startSec": 17.672,
+      "endSec": 28.484,
+      "sectionLabel": "03 / ONE-WAY FOMO",
+      "mood": "amber"
+    },
+    {
+      "id": "ikea-effect",
+      "startSec": 28.484,
+      "endSec": 40.021,
+      "sectionLabel": "04 / SWEAT EQUITY BIAS",
+      "mood": "emerald"
+    },
+    {
+      "id": "meatball-finale",
+      "startSec": 40.021,
+      "endSec": 50.407,
+      "sectionLabel": "05 / PEAK-END REWARD",
+      "mood": "crimson"
+    },
+    {
+      "id": "ikea-loop-outro",
+      "startSec": 50.407,
+      "endSec": 58.41,
+      "sectionLabel": "06 / ENGINEERED MAZE",
+      "mood": "amber"
+    }
+  ],
+  "captions": [
+    {
+      "startSec": 0.08,
+      "endSec": 5.213,
+      "words": [
+        {
+          "text": "IKEA's"
+        },
+        {
+          "text": "curved"
+        },
+        {
+          "text": "maze"
+        },
+        {
+          "text": "blocks"
+        },
+        {
+          "text": "your"
+        },
+        {
+          "text": "view"
+        },
+        {
+          "text": "every"
+        },
+        {
+          "text": "50",
+          "tone": "amber"
+        },
+        {
+          "text": "feet—",
+          "tone": "amber"
+        }
+      ]
+    },
+    {
+      "startSec": 5.213,
+      "endSec": 8.609,
+      "words": [
+        {
+          "text": "a"
+        },
+        {
+          "text": "retail"
+        },
+        {
+          "text": "weapon"
+        },
+        {
+          "text": "called"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "Gruen",
+          "tone": "crimson"
+        },
+        {
+          "text": "Transfer.",
+          "tone": "crimson"
+        }
+      ]
+    },
+    {
+      "startSec": 8.609,
+      "endSec": 13.081,
+      "words": [
+        {
+          "text": "Curving"
+        },
+        {
+          "text": "walls"
+        },
+        {
+          "text": "and"
+        },
+        {
+          "text": "zero",
+          "tone": "crimson"
+        },
+        {
+          "text": "windows",
+          "tone": "crimson"
+        },
+        {
+          "text": "erase"
+        },
+        {
+          "text": "your"
+        },
+        {
+          "text": "sense"
+        },
+        {
+          "text": "of"
+        },
+        {
+          "text": "time—"
+        }
+      ]
+    },
+    {
+      "startSec": 13.081,
+      "endSec": 17.672,
+      "words": [
+        {
+          "text": "making"
+        },
+        {
+          "text": "60%",
+          "tone": "amber"
+        },
+        {
+          "text": "of"
+        },
+        {
+          "text": "IKEA"
+        },
+        {
+          "text": "purchases"
+        },
+        {
+          "text": "unplanned",
+          "tone": "crimson"
+        },
+        {
+          "text": "impulse."
+        }
+      ]
+    },
+    {
+      "startSec": 17.672,
+      "endSec": 23.232,
+      "words": [
+        {
+          "text": "On"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "one-way",
+          "tone": "amber"
+        },
+        {
+          "text": "path,"
+        },
+        {
+          "text": "passing"
+        },
+        {
+          "text": "items"
+        },
+        {
+          "text": "triggers"
+        },
+        {
+          "text": "instant"
+        },
+        {
+          "text": "FOMO—",
+          "tone": "crimson"
+        }
+      ]
+    },
+    {
+      "startSec": 23.232,
+      "endSec": 28.484,
+      "words": [
+        {
+          "text": "while"
+        },
+        {
+          "text": "cheap"
+        },
+        {
+          "text": "bargain",
+          "tone": "amber"
+        },
+        {
+          "text": "bins",
+          "tone": "amber"
+        },
+        {
+          "text": "pad"
+        },
+        {
+          "text": "your"
+        },
+        {
+          "text": "bag"
+        },
+        {
+          "text": "at"
+        },
+        {
+          "text": "every"
+        },
+        {
+          "text": "turn."
+        }
+      ]
+    },
+    {
+      "startSec": 28.484,
+      "endSec": 34.983,
+      "words": [
+        {
+          "text": "Harvard's"
+        },
+        {
+          "text": "IKEA",
+          "tone": "emerald"
+        },
+        {
+          "text": "Effect:"
+        },
+        {
+          "text": "DIY"
+        },
+        {
+          "text": "assembly"
+        },
+        {
+          "text": "spikes"
+        },
+        {
+          "text": "value"
+        },
+        {
+          "text": "63%—",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 34.983,
+      "endSec": 40.021,
+      "words": [
+        {
+          "text": "while"
+        },
+        {
+          "text": "shipping"
+        },
+        {
+          "text": "6x",
+          "tone": "amber"
+        },
+        {
+          "text": "more",
+          "tone": "amber"
+        },
+        {
+          "text": "boxes"
+        },
+        {
+          "text": "at"
+        },
+        {
+          "text": "$0"
+        },
+        {
+          "text": "assembly"
+        },
+        {
+          "text": "labor."
+        }
+      ]
+    },
+    {
+      "startSec": 40.021,
+      "endSec": 45.645,
+      "words": [
+        {
+          "text": "Right"
+        },
+        {
+          "text": "past"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "$300",
+          "tone": "crimson"
+        },
+        {
+          "text": "checkout,"
+        },
+        {
+          "text": "$1.00",
+          "tone": "emerald"
+        },
+        {
+          "text": "cones"
+        },
+        {
+          "text": "and"
+        },
+        {
+          "text": "meatballs"
+        },
+        {
+          "text": "appear—"
+        }
+      ]
+    },
+    {
+      "startSec": 45.645,
+      "endSec": 50.407,
+      "words": [
+        {
+          "text": "overwriting"
+        },
+        {
+          "text": "checkout",
+          "tone": "crimson"
+        },
+        {
+          "text": "pain"
+        },
+        {
+          "text": "with"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "bargain",
+          "tone": "emerald"
+        },
+        {
+          "text": "high."
+        }
+      ]
+    },
+    {
+      "startSec": 50.407,
+      "endSec": 54.495,
+      "words": [
+        {
+          "text": "You"
+        },
+        {
+          "text": "came"
+        },
+        {
+          "text": "for"
+        },
+        {
+          "text": "$4.00",
+          "tone": "emerald"
+        },
+        {
+          "text": "candles"
+        },
+        {
+          "text": "and"
+        },
+        {
+          "text": "left"
+        },
+        {
+          "text": "down"
+        },
+        {
+          "text": "$300,",
+          "tone": "crimson"
+        }
+      ]
+    },
+    {
+      "startSec": 54.495,
+      "endSec": 58.41,
+      "words": [
+        {
+          "text": "because"
+        },
+        {
+          "text": "every"
+        },
+        {
+          "text": "bend"
+        },
+        {
+          "text": "steered",
+          "tone": "amber"
+        },
+        {
+          "text": "your"
+        },
+        {
+          "text": "brain—"
+        },
+        {
+          "text": "which"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "why..."
+        }
+      ]
+    }
+  ]
+}

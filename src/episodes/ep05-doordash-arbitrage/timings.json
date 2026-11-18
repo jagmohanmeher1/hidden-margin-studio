@@ -1,0 +1,480 @@
+{
+  "totalDurationSec": 57.12,
+  "scenes": [
+    {
+      "id": "pizza-hero",
+      "startSec": 0.0,
+      "endSec": 11.523,
+      "sectionLabel": "01 / PIZZA GLITCH",
+      "mood": "emerald"
+    },
+    {
+      "id": "phantom-listing",
+      "startSec": 11.523,
+      "endSec": 20.108,
+      "sectionLabel": "02 / PHANTOM SCRAPING",
+      "mood": "crimson"
+    },
+    {
+      "id": "arbitrage-loop",
+      "startSec": 20.108,
+      "endSec": 30.655,
+      "sectionLabel": "03 / THE $16 → $24 LOOP",
+      "mood": "emerald"
+    },
+    {
+      "id": "plain-dough-test",
+      "startSec": 30.655,
+      "endSec": 39.624,
+      "sectionLabel": "04 / PLAIN DOUGH HACK",
+      "mood": "amber"
+    },
+    {
+      "id": "vc-subsidy-trap",
+      "startSec": 39.624,
+      "endSec": 48.166,
+      "sectionLabel": "05 / VC BLIND SPOT",
+      "mood": "crimson"
+    },
+    {
+      "id": "pizza-loop-outro",
+      "startSec": 48.166,
+      "endSec": 57.12,
+      "sectionLabel": "06 / VC PAID DINNER",
+      "mood": "emerald"
+    }
+  ],
+  "captions": [
+    {
+      "startSec": 0.08,
+      "endSec": 7.187,
+      "words": [
+        {
+          "text": "In"
+        },
+        {
+          "text": "2019,",
+          "tone": "amber"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "pizzeria"
+        },
+        {
+          "text": "got"
+        },
+        {
+          "text": "paid"
+        },
+        {
+          "text": "+$8.00",
+          "tone": "emerald"
+        },
+        {
+          "text": "ordering"
+        },
+        {
+          "text": "its"
+        },
+        {
+          "text": "own"
+        },
+        {
+          "text": "pies—"
+        }
+      ]
+    },
+    {
+      "startSec": 7.187,
+      "endSec": 11.523,
+      "words": [
+        {
+          "text": "turning"
+        },
+        {
+          "text": "Silicon"
+        },
+        {
+          "text": "Valley"
+        },
+        {
+          "text": "VC",
+          "tone": "amber"
+        },
+        {
+          "text": "into"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "personal"
+        },
+        {
+          "text": "cash",
+          "tone": "emerald"
+        },
+        {
+          "text": "machine.",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 11.523,
+      "endSec": 16.455,
+      "words": [
+        {
+          "text": "Angry"
+        },
+        {
+          "text": "diners"
+        },
+        {
+          "text": "called"
+        },
+        {
+          "text": "Ranjan"
+        },
+        {
+          "text": "Roy's"
+        },
+        {
+          "text": "friend"
+        },
+        {
+          "text": "over"
+        },
+        {
+          "text": "cold",
+          "tone": "crimson"
+        },
+        {
+          "text": "deliveries—",
+          "tone": "crimson"
+        }
+      ]
+    },
+    {
+      "startSec": 16.455,
+      "endSec": 20.108,
+      "words": [
+        {
+          "text": "even"
+        },
+        {
+          "text": "though"
+        },
+        {
+          "text": "his"
+        },
+        {
+          "text": "restaurant"
+        },
+        {
+          "text": "never",
+          "tone": "crimson"
+        },
+        {
+          "text": "signed",
+          "tone": "crimson"
+        },
+        {
+          "text": "up"
+        },
+        {
+          "text": "for"
+        },
+        {
+          "text": "DoorDash."
+        }
+      ]
+    },
+    {
+      "startSec": 20.108,
+      "endSec": 25.509,
+      "words": [
+        {
+          "text": "DoorDash"
+        },
+        {
+          "text": "scraped"
+        },
+        {
+          "text": "menus—"
+        },
+        {
+          "text": "subsidizing"
+        },
+        {
+          "text": "$8.00",
+          "tone": "crimson"
+        },
+        {
+          "text": "per"
+        },
+        {
+          "text": "pie"
+        },
+        {
+          "text": "with"
+        },
+        {
+          "text": "VC"
+        },
+        {
+          "text": "cash."
+        }
+      ]
+    },
+    {
+      "startSec": 25.509,
+      "endSec": 30.655,
+      "words": [
+        {
+          "text": "So"
+        },
+        {
+          "text": "he"
+        },
+        {
+          "text": "bought"
+        },
+        {
+          "text": "10"
+        },
+        {
+          "text": "$24.00",
+          "tone": "emerald"
+        },
+        {
+          "text": "pizzas"
+        },
+        {
+          "text": "on"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "app"
+        },
+        {
+          "text": "for"
+        },
+        {
+          "text": "$160.",
+          "tone": "amber"
+        }
+      ]
+    },
+    {
+      "startSec": 30.655,
+      "endSec": 35.587,
+      "words": [
+        {
+          "text": "His"
+        },
+        {
+          "text": "next"
+        },
+        {
+          "text": "move:",
+          "tone": "amber"
+        },
+        {
+          "text": "why"
+        },
+        {
+          "text": "waste"
+        },
+        {
+          "text": "expensive"
+        },
+        {
+          "text": "cheese",
+          "tone": "crimson"
+        },
+        {
+          "text": "on"
+        },
+        {
+          "text": "himself?"
+        }
+      ]
+    },
+    {
+      "startSec": 35.587,
+      "endSec": 39.624,
+      "words": [
+        {
+          "text": "Round"
+        },
+        {
+          "text": "two:"
+        },
+        {
+          "text": "bake"
+        },
+        {
+          "text": "plain",
+          "tone": "amber"
+        },
+        {
+          "text": "dough",
+          "tone": "amber"
+        },
+        {
+          "text": "for"
+        },
+        {
+          "text": "pennies—"
+        },
+        {
+          "text": "netting"
+        },
+        {
+          "text": "+$75.",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 39.624,
+      "endSec": 44.641,
+      "words": [
+        {
+          "text": "Why"
+        },
+        {
+          "text": "no"
+        },
+        {
+          "text": "fraud"
+        },
+        {
+          "text": "alert?"
+        },
+        {
+          "text": "Blitzscaling",
+          "tone": "crimson"
+        },
+        {
+          "text": "startups"
+        },
+        {
+          "text": "torch"
+        },
+        {
+          "text": "VC",
+          "tone": "amber"
+        },
+        {
+          "text": "millions—"
+        }
+      ]
+    },
+    {
+      "startSec": 44.641,
+      "endSec": 48.166,
+      "words": [
+        {
+          "text": "just"
+        },
+        {
+          "text": "to"
+        },
+        {
+          "text": "inflate"
+        },
+        {
+          "text": "order"
+        },
+        {
+          "text": "growth",
+          "tone": "emerald"
+        },
+        {
+          "text": "charts"
+        },
+        {
+          "text": "before"
+        },
+        {
+          "text": "an"
+        },
+        {
+          "text": "IPO.",
+          "tone": "crimson"
+        }
+      ]
+    },
+    {
+      "startSec": 48.166,
+      "endSec": 53.012,
+      "words": [
+        {
+          "text": "For"
+        },
+        {
+          "text": "once,"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "local"
+        },
+        {
+          "text": "owner"
+        },
+        {
+          "text": "beat",
+          "tone": "emerald"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "billion-dollar"
+        },
+        {
+          "text": "algorithm—"
+        }
+      ]
+    },
+    {
+      "startSec": 53.012,
+      "endSec": 57.12,
+      "words": [
+        {
+          "text": "cashing"
+        },
+        {
+          "text": "+$75",
+          "tone": "emerald"
+        },
+        {
+          "text": "per"
+        },
+        {
+          "text": "couch"
+        },
+        {
+          "text": "delivery—"
+        },
+        {
+          "text": "which"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "why..."
+        }
+      ]
+    }
+  ]
+}

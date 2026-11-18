@@ -1,0 +1,496 @@
+{
+  "totalDurationSec": 57.54,
+  "scenes": [
+    {
+      "id": "menu-hero",
+      "startSec": 0.0,
+      "endSec": 11.895,
+      "sectionLabel": "01 / MENU SURGERY",
+      "mood": "amber"
+    },
+    {
+      "id": "cornell-study",
+      "startSec": 11.895,
+      "endSec": 22.067,
+      "sectionLabel": "02 / CORNELL STUDY",
+      "mood": "emerald"
+    },
+    {
+      "id": "pain-of-paying",
+      "startSec": 22.067,
+      "endSec": 32.196,
+      "sectionLabel": "03 / PAIN OF PAYING",
+      "mood": "crimson"
+    },
+    {
+      "id": "golden-triangle",
+      "startSec": 32.196,
+      "endSec": 42.837,
+      "sectionLabel": "04 / $95 ANCHOR BAIT",
+      "mood": "amber"
+    },
+    {
+      "id": "menu-stack",
+      "startSec": 42.837,
+      "endSec": 50.62,
+      "sectionLabel": "05 / FULL MENU PLAYBOOK",
+      "mood": "crimson"
+    },
+    {
+      "id": "menu-loop-outro",
+      "startSec": 50.62,
+      "endSec": 57.54,
+      "sectionLabel": "06 / CHECK PLEASE",
+      "mood": "amber"
+    }
+  ],
+  "captions": [
+    {
+      "startSec": 0.08,
+      "endSec": 6.963,
+      "words": [
+        {
+          "text": "At"
+        },
+        {
+          "text": "nice"
+        },
+        {
+          "text": "restaurants,"
+        },
+        {
+          "text": "there's"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "reason"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "\"$\"",
+          "tone": "crimson"
+        },
+        {
+          "text": "sign",
+          "tone": "crimson"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "missing—"
+        }
+      ]
+    },
+    {
+      "startSec": 6.963,
+      "endSec": 11.895,
+      "words": [
+        {
+          "text": "deleting"
+        },
+        {
+          "text": "that"
+        },
+        {
+          "text": "symbol"
+        },
+        {
+          "text": "quietly",
+          "tone": "amber"
+        },
+        {
+          "text": "tricks"
+        },
+        {
+          "text": "you"
+        },
+        {
+          "text": "into"
+        },
+        {
+          "text": "spending"
+        },
+        {
+          "text": "8%",
+          "tone": "emerald"
+        },
+        {
+          "text": "more.",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 11.895,
+      "endSec": 16.495,
+      "words": [
+        {
+          "text": "Cornell",
+          "tone": "amber"
+        },
+        {
+          "text": "researchers"
+        },
+        {
+          "text": "handed"
+        },
+        {
+          "text": "diners"
+        },
+        {
+          "text": "three"
+        },
+        {
+          "text": "identical"
+        },
+        {
+          "text": "restaurant"
+        },
+        {
+          "text": "menus:"
+        }
+      ]
+    },
+    {
+      "startSec": 16.495,
+      "endSec": 22.067,
+      "words": [
+        {
+          "text": "\"$28.00,\"",
+          "tone": "crimson"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "word"
+        },
+        {
+          "text": "\"dollars,\""
+        },
+        {
+          "text": "or"
+        },
+        {
+          "text": "naked",
+          "tone": "emerald"
+        },
+        {
+          "text": "numerals",
+          "tone": "emerald"
+        },
+        {
+          "text": "like"
+        },
+        {
+          "text": "\"28.\"",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 22.067,
+      "endSec": 27.499,
+      "words": [
+        {
+          "text": "It's"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "\"pain",
+          "tone": "crimson"
+        },
+        {
+          "text": "of"
+        },
+        {
+          "text": "paying\"—",
+          "tone": "crimson"
+        },
+        {
+          "text": "currency"
+        },
+        {
+          "text": "symbols"
+        },
+        {
+          "text": "trigger"
+        },
+        {
+          "text": "loss",
+          "tone": "crimson"
+        },
+        {
+          "text": "alarms,"
+        }
+      ]
+    },
+    {
+      "startSec": 27.499,
+      "endSec": 32.196,
+      "words": [
+        {
+          "text": "while"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "naked"
+        },
+        {
+          "text": "\"28\"",
+          "tone": "emerald"
+        },
+        {
+          "text": "reads"
+        },
+        {
+          "text": "like"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "harmless",
+          "tone": "amber"
+        },
+        {
+          "text": "page"
+        },
+        {
+          "text": "number."
+        }
+      ]
+    },
+    {
+      "startSec": 32.196,
+      "endSec": 38.503,
+      "words": [
+        {
+          "text": "Next,"
+        },
+        {
+          "text": "they"
+        },
+        {
+          "text": "plant"
+        },
+        {
+          "text": "an"
+        },
+        {
+          "text": "overpriced"
+        },
+        {
+          "text": "$95",
+          "tone": "crimson"
+        },
+        {
+          "text": "ribeye",
+          "tone": "amber"
+        },
+        {
+          "text": "in"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "top-right—"
+        }
+      ]
+    },
+    {
+      "startSec": 38.503,
+      "endSec": 42.837,
+      "words": [
+        {
+          "text": "not"
+        },
+        {
+          "text": "to"
+        },
+        {
+          "text": "sell,"
+        },
+        {
+          "text": "just"
+        },
+        {
+          "text": "so"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "$38",
+          "tone": "emerald"
+        },
+        {
+          "text": "pasta"
+        },
+        {
+          "text": "below"
+        },
+        {
+          "text": "feels"
+        },
+        {
+          "text": "cheap.",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 42.837,
+      "endSec": 47.459,
+      "words": [
+        {
+          "text": "Add"
+        },
+        {
+          "text": "shaded",
+          "tone": "amber"
+        },
+        {
+          "text": "boxes"
+        },
+        {
+          "text": "and"
+        },
+        {
+          "text": "sensory"
+        },
+        {
+          "text": "words"
+        },
+        {
+          "text": "like"
+        },
+        {
+          "text": "\"wood-fired",
+          "tone": "amber"
+        },
+        {
+          "text": "heirloom,\"",
+          "tone": "amber"
+        }
+      ]
+    },
+    {
+      "startSec": 47.459,
+      "endSec": 50.62,
+      "words": [
+        {
+          "text": "and"
+        },
+        {
+          "text": "every"
+        },
+        {
+          "text": "inch"
+        },
+        {
+          "text": "of"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "page"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "steering",
+          "tone": "crimson"
+        },
+        {
+          "text": "your"
+        },
+        {
+          "text": "wallet.",
+          "tone": "crimson"
+        }
+      ]
+    },
+    {
+      "startSec": 50.62,
+      "endSec": 53.215,
+      "words": [
+        {
+          "text": "You"
+        },
+        {
+          "text": "thought"
+        },
+        {
+          "text": "it"
+        },
+        {
+          "text": "was"
+        },
+        {
+          "text": "minimalist",
+          "tone": "amber"
+        },
+        {
+          "text": "graphic"
+        },
+        {
+          "text": "design,"
+        }
+      ]
+    },
+    {
+      "startSec": 53.215,
+      "endSec": 57.54,
+      "words": [
+        {
+          "text": "when"
+        },
+        {
+          "text": "it"
+        },
+        {
+          "text": "was"
+        },
+        {
+          "text": "behavioral",
+          "tone": "crimson"
+        },
+        {
+          "text": "math"
+        },
+        {
+          "text": "padding"
+        },
+        {
+          "text": "your"
+        },
+        {
+          "text": "check—",
+          "tone": "crimson"
+        },
+        {
+          "text": "which"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "why..."
+        }
+      ]
+    }
+  ]
+}

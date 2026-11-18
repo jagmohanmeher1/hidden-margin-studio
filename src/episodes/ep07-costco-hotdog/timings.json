@@ -1,0 +1,463 @@
+{
+  "totalDurationSec": 67.31,
+  "scenes": [
+    {
+      "id": "costco-hero",
+      "startSec": 0.0,
+      "endSec": 9.996,
+      "sectionLabel": "01 / FROZEN IN 1985",
+      "mood": "amber"
+    },
+    {
+      "id": "inflation-lock",
+      "startSec": 9.996,
+      "endSec": 22.984,
+      "sectionLabel": "02 / INFLATION DEFIANCE",
+      "mood": "crimson"
+    },
+    {
+      "id": "vertical-factories",
+      "startSec": 22.984,
+      "endSec": 34.692,
+      "sectionLabel": "03 / 2 MEAT PLANTS",
+      "mood": "amber"
+    },
+    {
+      "id": "markup-cap",
+      "startSec": 34.692,
+      "endSec": 46.784,
+      "sectionLabel": "04 / 14% MARKUP CAP",
+      "mood": "emerald"
+    },
+    {
+      "id": "membership-engine",
+      "startSec": 46.784,
+      "endSec": 58.193,
+      "sectionLabel": "05 / 72% OF ALL PROFIT",
+      "mood": "emerald"
+    },
+    {
+      "id": "costco-loop-outro",
+      "startSec": 58.193,
+      "endSec": 67.31,
+      "sectionLabel": "06 / RENEWAL PSYCHOLOGY",
+      "mood": "amber"
+    }
+  ],
+  "captions": [
+    {
+      "startSec": 0.08,
+      "endSec": 5.107,
+      "words": [
+        {
+          "text": "Costco"
+        },
+        {
+          "text": "built"
+        },
+        {
+          "text": "two"
+        },
+        {
+          "text": "meat",
+          "tone": "amber"
+        },
+        {
+          "text": "plants",
+          "tone": "amber"
+        },
+        {
+          "text": "just"
+        },
+        {
+          "text": "to"
+        },
+        {
+          "text": "keep"
+        },
+        {
+          "text": "$1.50—",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 5.107,
+      "endSec": 9.996,
+      "words": [
+        {
+          "text": "because"
+        },
+        {
+          "text": "it's"
+        },
+        {
+          "text": "not"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "store—"
+        },
+        {
+          "text": "it's"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "$4.8B",
+          "tone": "emerald"
+        },
+        {
+          "text": "membership",
+          "tone": "emerald"
+        },
+        {
+          "text": "club."
+        }
+      ]
+    },
+    {
+      "startSec": 9.996,
+      "endSec": 16.388,
+      "words": [
+        {
+          "text": "Priced"
+        },
+        {
+          "text": "$1.50",
+          "tone": "emerald"
+        },
+        {
+          "text": "in"
+        },
+        {
+          "text": "1985—"
+        },
+        {
+          "text": "inflation"
+        },
+        {
+          "text": "says"
+        },
+        {
+          "text": "it"
+        },
+        {
+          "text": "should"
+        },
+        {
+          "text": "cost"
+        },
+        {
+          "text": "$4.55.",
+          "tone": "crimson"
+        }
+      ]
+    },
+    {
+      "startSec": 16.388,
+      "endSec": 22.984,
+      "words": [
+        {
+          "text": "Founder"
+        },
+        {
+          "text": "Jim"
+        },
+        {
+          "text": "Sinegal"
+        },
+        {
+          "text": "warned:"
+        },
+        {
+          "text": "\"Raise",
+          "tone": "crimson"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "hot"
+        },
+        {
+          "text": "dog,"
+        },
+        {
+          "text": "I'll"
+        },
+        {
+          "text": "kill",
+          "tone": "crimson"
+        },
+        {
+          "text": "you.\""
+        }
+      ]
+    },
+    {
+      "startSec": 22.984,
+      "endSec": 29.419,
+      "words": [
+        {
+          "text": "So"
+        },
+        {
+          "text": "Costco"
+        },
+        {
+          "text": "opened"
+        },
+        {
+          "text": "its"
+        },
+        {
+          "text": "own"
+        },
+        {
+          "text": "Kirkland",
+          "tone": "amber"
+        },
+        {
+          "text": "meat",
+          "tone": "amber"
+        },
+        {
+          "text": "plants—"
+        }
+      ]
+    },
+    {
+      "startSec": 29.419,
+      "endSec": 34.692,
+      "words": [
+        {
+          "text": "making"
+        },
+        {
+          "text": "200M+",
+          "tone": "emerald"
+        },
+        {
+          "text": "franks"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "year"
+        },
+        {
+          "text": "to"
+        },
+        {
+          "text": "defend"
+        },
+        {
+          "text": "$1.50.",
+          "tone": "amber"
+        }
+      ]
+    },
+    {
+      "startSec": 34.692,
+      "endSec": 41.319,
+      "words": [
+        {
+          "text": "Supermarkets"
+        },
+        {
+          "text": "mark"
+        },
+        {
+          "text": "up"
+        },
+        {
+          "text": "35%—",
+          "tone": "crimson"
+        },
+        {
+          "text": "Costco"
+        },
+        {
+          "text": "caps"
+        },
+        {
+          "text": "markups"
+        },
+        {
+          "text": "at"
+        },
+        {
+          "text": "14%.",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 41.319,
+      "endSec": 46.784,
+      "words": [
+        {
+          "text": "After"
+        },
+        {
+          "text": "wages,"
+        },
+        {
+          "text": "$250B"
+        },
+        {
+          "text": "in"
+        },
+        {
+          "text": "merchandise"
+        },
+        {
+          "text": "barely",
+          "tone": "amber"
+        },
+        {
+          "text": "breaks"
+        },
+        {
+          "text": "even."
+        }
+      ]
+    },
+    {
+      "startSec": 46.784,
+      "endSec": 52.429,
+      "words": [
+        {
+          "text": "Your"
+        },
+        {
+          "text": "plastic"
+        },
+        {
+          "text": "card"
+        },
+        {
+          "text": "collects"
+        },
+        {
+          "text": "$4.8B+",
+          "tone": "emerald"
+        },
+        {
+          "text": "in"
+        },
+        {
+          "text": "annual"
+        },
+        {
+          "text": "fees—"
+        }
+      ]
+    },
+    {
+      "startSec": 52.429,
+      "endSec": 58.193,
+      "words": [
+        {
+          "text": "renewing"
+        },
+        {
+          "text": "at"
+        },
+        {
+          "text": "93%",
+          "tone": "emerald"
+        },
+        {
+          "text": "for"
+        },
+        {
+          "text": "72%",
+          "tone": "emerald"
+        },
+        {
+          "text": "of"
+        },
+        {
+          "text": "operating"
+        },
+        {
+          "text": "profit."
+        }
+      ]
+    },
+    {
+      "startSec": 58.193,
+      "endSec": 62.964,
+      "words": [
+        {
+          "text": "Every"
+        },
+        {
+          "text": "$1.50",
+          "tone": "amber"
+        },
+        {
+          "text": "hot"
+        },
+        {
+          "text": "dog"
+        },
+        {
+          "text": "convinces"
+        },
+        {
+          "text": "you"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "card"
+        },
+        {
+          "text": "pays"
+        },
+        {
+          "text": "off—"
+        }
+      ]
+    },
+    {
+      "startSec": 62.964,
+      "endSec": 67.31,
+      "words": [
+        {
+          "text": "locking"
+        },
+        {
+          "text": "in"
+        },
+        {
+          "text": "your"
+        },
+        {
+          "text": "renewal",
+          "tone": "emerald"
+        },
+        {
+          "text": "fee—"
+        },
+        {
+          "text": "which"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "why..."
+        }
+      ]
+    }
+  ]
+}

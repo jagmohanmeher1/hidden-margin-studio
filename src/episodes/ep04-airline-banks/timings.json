@@ -1,0 +1,457 @@
+{
+  "totalDurationSec": 56.18,
+  "scenes": [
+    {
+      "id": "airline-hero",
+      "startSec": 0.0,
+      "endSec": 9.911,
+      "sectionLabel": "01 / WALL STREET SECRET",
+      "mood": "emerald"
+    },
+    {
+      "id": "margin-contrast",
+      "startSec": 9.911,
+      "endSec": 19.827,
+      "sectionLabel": "02 / BRUTAL FLIGHT MATH",
+      "mood": "crimson"
+    },
+    {
+      "id": "bank-arbitrage",
+      "startSec": 19.827,
+      "endSec": 28.804,
+      "sectionLabel": "03 / THE AMEX ENGINE",
+      "mood": "amber"
+    },
+    {
+      "id": "collateral-reveal",
+      "startSec": 28.804,
+      "endSec": 39.253,
+      "sectionLabel": "04 / 2020 SEC LEAK",
+      "mood": "emerald"
+    },
+    {
+      "id": "devaluation-power",
+      "startSec": 39.253,
+      "endSec": 49.084,
+      "sectionLabel": "05 / CENTRAL BANK POWER",
+      "mood": "crimson"
+    },
+    {
+      "id": "airline-loop-outro",
+      "startSec": 49.084,
+      "endSec": 56.18,
+      "sectionLabel": "06 / FLYING BILLBOARDS",
+      "mood": "amber"
+    }
+  ],
+  "captions": [
+    {
+      "startSec": 0.08,
+      "endSec": 4.403,
+      "words": [
+        {
+          "text": "If"
+        },
+        {
+          "text": "Delta"
+        },
+        {
+          "text": "stopped"
+        },
+        {
+          "text": "flying,"
+        },
+        {
+          "text": "their"
+        },
+        {
+          "text": "profit",
+          "tone": "emerald"
+        },
+        {
+          "text": "engine",
+          "tone": "emerald"
+        },
+        {
+          "text": "wouldn't"
+        },
+        {
+          "text": "flinch."
+        }
+      ]
+    },
+    {
+      "startSec": 4.403,
+      "endSec": 9.911,
+      "words": [
+        {
+          "text": "Airlines"
+        },
+        {
+          "text": "aren't"
+        },
+        {
+          "text": "travel"
+        },
+        {
+          "text": "companies—"
+        },
+        {
+          "text": "they're"
+        },
+        {
+          "text": "credit-card",
+          "tone": "emerald"
+        },
+        {
+          "text": "banks",
+          "tone": "emerald"
+        },
+        {
+          "text": "with"
+        },
+        {
+          "text": "planes.",
+          "tone": "amber"
+        }
+      ]
+    },
+    {
+      "startSec": 9.911,
+      "endSec": 14.788,
+      "words": [
+        {
+          "text": "Flying"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "brutal:",
+          "tone": "crimson"
+        },
+        {
+          "text": "fuel"
+        },
+        {
+          "text": "spikes,"
+        },
+        {
+          "text": "delays,"
+        },
+        {
+          "text": "and"
+        },
+        {
+          "text": "$150M",
+          "tone": "amber"
+        },
+        {
+          "text": "jets—"
+        }
+      ]
+    },
+    {
+      "startSec": 14.788,
+      "endSec": 19.827,
+      "words": [
+        {
+          "text": "leaving"
+        },
+        {
+          "text": "passenger"
+        },
+        {
+          "text": "tickets"
+        },
+        {
+          "text": "at"
+        },
+        {
+          "text": "razor-thin"
+        },
+        {
+          "text": "2%",
+          "tone": "crimson"
+        },
+        {
+          "text": "margins—"
+        },
+        {
+          "text": "or"
+        },
+        {
+          "text": "losses.",
+          "tone": "crimson"
+        }
+      ]
+    },
+    {
+      "startSec": 19.827,
+      "endSec": 24.747,
+      "words": [
+        {
+          "text": "The"
+        },
+        {
+          "text": "real"
+        },
+        {
+          "text": "money",
+          "tone": "emerald"
+        },
+        {
+          "text": "machine:"
+        },
+        {
+          "text": "selling"
+        },
+        {
+          "text": "billions"
+        },
+        {
+          "text": "of"
+        },
+        {
+          "text": "miles"
+        },
+        {
+          "text": "to"
+        },
+        {
+          "text": "Amex—",
+          "tone": "amber"
+        }
+      ]
+    },
+    {
+      "startSec": 24.747,
+      "endSec": 28.804,
+      "words": [
+        {
+          "text": "who"
+        },
+        {
+          "text": "hand"
+        },
+        {
+          "text": "them"
+        },
+        {
+          "text": "out"
+        },
+        {
+          "text": "every"
+        },
+        {
+          "text": "time"
+        },
+        {
+          "text": "you"
+        },
+        {
+          "text": "swipe",
+          "tone": "amber"
+        },
+        {
+          "text": "for"
+        },
+        {
+          "text": "groceries."
+        }
+      ]
+    },
+    {
+      "startSec": 28.804,
+      "endSec": 33.703,
+      "words": [
+        {
+          "text": "When"
+        },
+        {
+          "text": "airlines"
+        },
+        {
+          "text": "mortgaged"
+        },
+        {
+          "text": "loyalty"
+        },
+        {
+          "text": "in"
+        },
+        {
+          "text": "2020,",
+          "tone": "amber"
+        },
+        {
+          "text": "SEC"
+        },
+        {
+          "text": "filings"
+        },
+        {
+          "text": "leaked"
+        },
+        {
+          "text": "it:"
+        }
+      ]
+    },
+    {
+      "startSec": 33.703,
+      "endSec": 39.253,
+      "words": [
+        {
+          "text": "United"
+        },
+        {
+          "text": "hit"
+        },
+        {
+          "text": "$22B",
+          "tone": "emerald"
+        },
+        {
+          "text": "and"
+        },
+        {
+          "text": "Delta"
+        },
+        {
+          "text": "$25.6B—",
+          "tone": "emerald"
+        },
+        {
+          "text": "beating"
+        },
+        {
+          "text": "their"
+        },
+        {
+          "text": "stock"
+        },
+        {
+          "text": "caps!"
+        }
+      ]
+    },
+    {
+      "startSec": 39.253,
+      "endSec": 44.792,
+      "words": [
+        {
+          "text": "Better"
+        },
+        {
+          "text": "yet,"
+        },
+        {
+          "text": "airlines"
+        },
+        {
+          "text": "act"
+        },
+        {
+          "text": "like"
+        },
+        {
+          "text": "central",
+          "tone": "crimson"
+        },
+        {
+          "text": "banks—",
+          "tone": "crimson"
+        },
+        {
+          "text": "printing"
+        },
+        {
+          "text": "at"
+        },
+        {
+          "text": "$0,",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 44.792,
+      "endSec": 49.084,
+      "words": [
+        {
+          "text": "and"
+        },
+        {
+          "text": "when"
+        },
+        {
+          "text": "miles"
+        },
+        {
+          "text": "pile"
+        },
+        {
+          "text": "up,"
+        },
+        {
+          "text": "they"
+        },
+        {
+          "text": "hike",
+          "tone": "crimson"
+        },
+        {
+          "text": "award"
+        },
+        {
+          "text": "prices"
+        },
+        {
+          "text": "overnight.",
+          "tone": "crimson"
+        }
+      ]
+    },
+    {
+      "startSec": 49.084,
+      "endSec": 56.18,
+      "words": [
+        {
+          "text": "Those"
+        },
+        {
+          "text": "35,000-ft"
+        },
+        {
+          "text": "jets"
+        },
+        {
+          "text": "exist"
+        },
+        {
+          "text": "to"
+        },
+        {
+          "text": "keep"
+        },
+        {
+          "text": "you"
+        },
+        {
+          "text": "swiping—",
+          "tone": "amber"
+        },
+        {
+          "text": "which"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "why..."
+        }
+      ]
+    }
+  ]
+}

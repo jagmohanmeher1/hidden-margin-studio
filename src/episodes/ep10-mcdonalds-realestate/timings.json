@@ -1,0 +1,479 @@
+{
+  "totalDurationSec": 62.49,
+  "scenes": [
+    {
+      "id": "mcd-hero",
+      "startSec": 0.0,
+      "endSec": 9.996,
+      "sectionLabel": "01 / THE LANDLORD",
+      "mood": "amber"
+    },
+    {
+      "id": "sonneborn-pivot",
+      "startSec": 9.996,
+      "endSec": 22.301,
+      "sectionLabel": "02 / SONNEBORN PIVOT",
+      "mood": "emerald"
+    },
+    {
+      "id": "franchise-risk",
+      "startSec": 22.301,
+      "endSec": 34.372,
+      "sectionLabel": "03 / RISK OFFSHORING",
+      "mood": "crimson"
+    },
+    {
+      "id": "rent-ratchet",
+      "startSec": 34.372,
+      "endSec": 44.949,
+      "sectionLabel": "04 / RENT RATCHET",
+      "mood": "amber"
+    },
+    {
+      "id": "land-monopoly",
+      "startSec": 44.949,
+      "endSec": 54.247,
+      "sectionLabel": "05 / $9.8B RENT MACHINE",
+      "mood": "emerald"
+    },
+    {
+      "id": "mcd-loop-outro",
+      "startSec": 54.247,
+      "endSec": 62.49,
+      "sectionLabel": "06 / RENT PAYS ALL",
+      "mood": "amber"
+    }
+  ],
+  "captions": [
+    {
+      "startSec": 0.08,
+      "endSec": 4.808,
+      "words": [
+        {
+          "text": "McDonald's"
+        },
+        {
+          "text": "doesn't"
+        },
+        {
+          "text": "win"
+        },
+        {
+          "text": "flipping"
+        },
+        {
+          "text": "burgers—"
+        },
+        {
+          "text": "McDonald's"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "landlord.",
+          "tone": "amber"
+        }
+      ]
+    },
+    {
+      "startSec": 4.808,
+      "endSec": 9.996,
+      "words": [
+        {
+          "text": "Behind"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "arches"
+        },
+        {
+          "text": "sits"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "$42B",
+          "tone": "emerald"
+        },
+        {
+          "text": "real",
+          "tone": "emerald"
+        },
+        {
+          "text": "estate",
+          "tone": "emerald"
+        },
+        {
+          "text": "empire."
+        }
+      ]
+    },
+    {
+      "startSec": 9.996,
+      "endSec": 16.879,
+      "words": [
+        {
+          "text": "Ray"
+        },
+        {
+          "text": "Kroc"
+        },
+        {
+          "text": "was"
+        },
+        {
+          "text": "nearly"
+        },
+        {
+          "text": "broke",
+          "tone": "crimson"
+        },
+        {
+          "text": "on"
+        },
+        {
+          "text": "tiny"
+        },
+        {
+          "text": "burger"
+        },
+        {
+          "text": "royalties—"
+        }
+      ]
+    },
+    {
+      "startSec": 16.879,
+      "endSec": 22.301,
+      "words": [
+        {
+          "text": "until"
+        },
+        {
+          "text": "Sonneborn"
+        },
+        {
+          "text": "said:"
+        },
+        {
+          "text": "buy"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "dirt",
+          "tone": "amber"
+        },
+        {
+          "text": "and"
+        },
+        {
+          "text": "collect"
+        },
+        {
+          "text": "rent.",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 22.301,
+      "endSec": 28.971,
+      "words": [
+        {
+          "text": "Franchisees"
+        },
+        {
+          "text": "run"
+        },
+        {
+          "text": "95%",
+          "tone": "amber"
+        },
+        {
+          "text": "of"
+        },
+        {
+          "text": "stores—"
+        },
+        {
+          "text": "eating"
+        },
+        {
+          "text": "beef",
+          "tone": "crimson"
+        },
+        {
+          "text": "and"
+        },
+        {
+          "text": "labor"
+        },
+        {
+          "text": "costs."
+        }
+      ]
+    },
+    {
+      "startSec": 28.971,
+      "endSec": 34.372,
+      "words": [
+        {
+          "text": "Corporate"
+        },
+        {
+          "text": "skims"
+        },
+        {
+          "text": "rent"
+        },
+        {
+          "text": "off"
+        },
+        {
+          "text": "gross"
+        },
+        {
+          "text": "sales"
+        },
+        {
+          "text": "at"
+        },
+        {
+          "text": "82%",
+          "tone": "emerald"
+        },
+        {
+          "text": "margin.",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 34.372,
+      "endSec": 39.911,
+      "words": [
+        {
+          "text": "Owners"
+        },
+        {
+          "text": "pay"
+        },
+        {
+          "text": "base"
+        },
+        {
+          "text": "rent"
+        },
+        {
+          "text": "OR"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "%",
+          "tone": "amber"
+        },
+        {
+          "text": "of"
+        },
+        {
+          "text": "sales—"
+        },
+        {
+          "text": "whichever",
+          "tone": "amber"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "higher."
+        }
+      ]
+    },
+    {
+      "startSec": 39.911,
+      "endSec": 44.949,
+      "words": [
+        {
+          "text": "When"
+        },
+        {
+          "text": "menu"
+        },
+        {
+          "text": "prices"
+        },
+        {
+          "text": "rise,"
+        },
+        {
+          "text": "corporate"
+        },
+        {
+          "text": "rent",
+          "tone": "emerald"
+        },
+        {
+          "text": "climbs"
+        },
+        {
+          "text": "for"
+        },
+        {
+          "text": "free."
+        }
+      ]
+    },
+    {
+      "startSec": 44.949,
+      "endSec": 49.272,
+      "words": [
+        {
+          "text": "Now"
+        },
+        {
+          "text": "McDonald's"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "one"
+        },
+        {
+          "text": "of"
+        },
+        {
+          "text": "Earth's"
+        },
+        {
+          "text": "biggest"
+        },
+        {
+          "text": "retail",
+          "tone": "amber"
+        },
+        {
+          "text": "landlords—",
+          "tone": "amber"
+        }
+      ]
+    },
+    {
+      "startSec": 49.272,
+      "endSec": 54.247,
+      "words": [
+        {
+          "text": "collecting"
+        },
+        {
+          "text": "$9.8B+",
+          "tone": "emerald"
+        },
+        {
+          "text": "in"
+        },
+        {
+          "text": "annual"
+        },
+        {
+          "text": "rent"
+        },
+        {
+          "text": "from"
+        },
+        {
+          "text": "franchise"
+        },
+        {
+          "text": "tenants."
+        }
+      ]
+    },
+    {
+      "startSec": 54.247,
+      "endSec": 57.801,
+      "words": [
+        {
+          "text": "Fries"
+        },
+        {
+          "text": "and"
+        },
+        {
+          "text": "burgers"
+        },
+        {
+          "text": "aren't"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "business—"
+        },
+        {
+          "text": "they"
+        },
+        {
+          "text": "pay"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "lease,",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 57.801,
+      "endSec": 62.49,
+      "words": [
+        {
+          "text": "making"
+        },
+        {
+          "text": "fast"
+        },
+        {
+          "text": "food"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "$42B",
+          "tone": "amber"
+        },
+        {
+          "text": "property"
+        },
+        {
+          "text": "play—"
+        },
+        {
+          "text": "which"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "why..."
+        }
+      ]
+    }
+  ]
+}
