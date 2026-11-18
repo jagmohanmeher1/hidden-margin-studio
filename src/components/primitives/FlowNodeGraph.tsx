@@ -18,6 +18,7 @@ export interface FlowNodeGraphProps {
   stepIntervalFrames?: number;
   stampText?: string;
   stampSubtext?: string;
+  stampBadgeText?: string;
   stampRevealFrame?: number;
 }
 
@@ -27,6 +28,7 @@ export const FlowNodeGraph: React.FC<FlowNodeGraphProps> = ({
   stepIntervalFrames = 32,
   stampText,
   stampSubtext,
+  stampBadgeText = 'LOOPHOLE',
   stampRevealFrame = 155,
 }) => {
   const frame = useCurrentFrame();
@@ -225,7 +227,7 @@ export const FlowNodeGraph: React.FC<FlowNodeGraphProps> = ({
               letterSpacing: '0.1em',
             }}
           >
-            LOOPHOLE
+            {stampBadgeText}
           </span>
         </div>
       )}

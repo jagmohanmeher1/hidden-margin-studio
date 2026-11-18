@@ -1,0 +1,484 @@
+{
+  "totalDurationSec": 57.63,
+  "scenes": [
+    {
+      "id": "popcorn-hero",
+      "startSec": 0.0,
+      "endSec": 7.457,
+      "sectionLabel": "01 / MENU MANIPULATION",
+      "mood": "amber"
+    },
+    {
+      "id": "two-tier-baseline",
+      "startSec": 7.457,
+      "endSec": 17.693,
+      "sectionLabel": "02 / STICKER SHOCK",
+      "mood": "neutral"
+    },
+    {
+      "id": "decoy-pricing",
+      "startSec": 17.693,
+      "endSec": 28.42,
+      "sectionLabel": "03 / THE $8.50 DECOY",
+      "mood": "emerald"
+    },
+    {
+      "id": "raw-corn-margin",
+      "startSec": 28.42,
+      "endSec": 39.339,
+      "sectionLabel": "04 / 93% PROFIT MARGIN",
+      "mood": "emerald"
+    },
+    {
+      "id": "everywhere-decoys",
+      "startSec": 39.339,
+      "endSec": 48.764,
+      "sectionLabel": "05 / HIDDEN EVERYWHERE",
+      "mood": "crimson"
+    },
+    {
+      "id": "decoy-loop-outro",
+      "startSec": 48.764,
+      "endSec": 57.63,
+      "sectionLabel": "06 / ILLUSION OF WINNING",
+      "mood": "amber"
+    }
+  ],
+  "captions": [
+    {
+      "startSec": 0.08,
+      "endSec": 3.592,
+      "words": [
+        {
+          "text": "Nobody"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "supposed"
+        },
+        {
+          "text": "to"
+        },
+        {
+          "text": "buy"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "medium",
+          "tone": "crimson"
+        },
+        {
+          "text": "popcorn\u2014"
+        }
+      ]
+    },
+    {
+      "startSec": 3.592,
+      "endSec": 7.457,
+      "words": [
+        {
+          "text": "its"
+        },
+        {
+          "text": "entire"
+        },
+        {
+          "text": "job"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "hacking",
+          "tone": "amber"
+        },
+        {
+          "text": "you"
+        },
+        {
+          "text": "into"
+        },
+        {
+          "text": "buying"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "large.",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 7.457,
+      "endSec": 12.761,
+      "words": [
+        {
+          "text": "With"
+        },
+        {
+          "text": "only"
+        },
+        {
+          "text": "two"
+        },
+        {
+          "text": "sizes\u2014"
+        },
+        {
+          "text": "$6.00",
+          "tone": "emerald"
+        },
+        {
+          "text": "small"
+        },
+        {
+          "text": "vs"
+        },
+        {
+          "text": "$9.00",
+          "tone": "crimson"
+        },
+        {
+          "text": "large\u2014"
+        }
+      ]
+    },
+    {
+      "startSec": 12.761,
+      "endSec": 17.693,
+      "words": [
+        {
+          "text": "most"
+        },
+        {
+          "text": "people"
+        },
+        {
+          "text": "bought"
+        },
+        {
+          "text": "small,"
+        },
+        {
+          "text": "because"
+        },
+        {
+          "text": "$9.00",
+          "tone": "crimson"
+        },
+        {
+          "text": "felt"
+        },
+        {
+          "text": "like"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "rip-off.",
+          "tone": "crimson"
+        }
+      ]
+    },
+    {
+      "startSec": 17.693,
+      "endSec": 22.784,
+      "words": [
+        {
+          "text": "So"
+        },
+        {
+          "text": "they"
+        },
+        {
+          "text": "dropped"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "decoy",
+          "tone": "amber"
+        },
+        {
+          "text": "in"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "middle:"
+        },
+        {
+          "text": "$8.50",
+          "tone": "amber"
+        },
+        {
+          "text": "medium."
+        }
+      ]
+    },
+    {
+      "startSec": 22.784,
+      "endSec": 28.42,
+      "words": [
+        {
+          "text": "Now"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "large"
+        },
+        {
+          "text": "looks"
+        },
+        {
+          "text": "like"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "$0.50",
+          "tone": "emerald"
+        },
+        {
+          "text": "bargain\u2014",
+          "tone": "emerald"
+        },
+        {
+          "text": "spiking"
+        },
+        {
+          "text": "sales"
+        },
+        {
+          "text": "40%.",
+          "tone": "emerald"
+        }
+      ]
+    },
+    {
+      "startSec": 28.42,
+      "endSec": 34.983,
+      "words": [
+        {
+          "text": "Why"
+        },
+        {
+          "text": "theaters"
+        },
+        {
+          "text": "love"
+        },
+        {
+          "text": "it:"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "$9.00"
+        },
+        {
+          "text": "tub"
+        },
+        {
+          "text": "costs"
+        },
+        {
+          "text": "just"
+        },
+        {
+          "text": "$0.65",
+          "tone": "amber"
+        },
+        {
+          "text": "to"
+        },
+        {
+          "text": "make\u2014"
+        }
+      ]
+    },
+    {
+      "startSec": 34.983,
+      "endSec": 39.339,
+      "words": [
+        {
+          "text": "locking"
+        },
+        {
+          "text": "in"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "staggering"
+        },
+        {
+          "text": "93%",
+          "tone": "emerald"
+        },
+        {
+          "text": "gross"
+        },
+        {
+          "text": "profit",
+          "tone": "emerald"
+        },
+        {
+          "text": "margin."
+        }
+      ]
+    },
+    {
+      "startSec": 39.339,
+      "endSec": 43.533,
+      "words": [
+        {
+          "text": "Once"
+        },
+        {
+          "text": "you"
+        },
+        {
+          "text": "spot"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "Decoy",
+          "tone": "crimson"
+        },
+        {
+          "text": "Effect,",
+          "tone": "crimson"
+        },
+        {
+          "text": "you'll"
+        },
+        {
+          "text": "see"
+        },
+        {
+          "text": "it"
+        },
+        {
+          "text": "everywhere:"
+        }
+      ]
+    },
+    {
+      "startSec": 43.533,
+      "endSec": 48.764,
+      "words": [
+        {
+          "text": "coffee"
+        },
+        {
+          "text": "upsizes,"
+        },
+        {
+          "text": "iPhone",
+          "tone": "amber"
+        },
+        {
+          "text": "storage",
+          "tone": "amber"
+        },
+        {
+          "text": "tiers,"
+        },
+        {
+          "text": "and"
+        },
+        {
+          "text": "subscription"
+        },
+        {
+          "text": "bundles."
+        }
+      ]
+    },
+    {
+      "startSec": 48.764,
+      "endSec": 52.404,
+      "words": [
+        {
+          "text": "You"
+        },
+        {
+          "text": "walk"
+        },
+        {
+          "text": "away"
+        },
+        {
+          "text": "feeling"
+        },
+        {
+          "text": "clever",
+          "tone": "amber"
+        },
+        {
+          "text": "for"
+        },
+        {
+          "text": "spending"
+        },
+        {
+          "text": "$0.50"
+        },
+        {
+          "text": "more,"
+        }
+      ]
+    },
+    {
+      "startSec": 52.404,
+      "endSec": 57.63,
+      "words": [
+        {
+          "text": "when"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "menu"
+        },
+        {
+          "text": "extracted"
+        },
+        {
+          "text": "$3.00",
+          "tone": "crimson"
+        },
+        {
+          "text": "extra\u2014"
+        },
+        {
+          "text": "which"
+        },
+        {
+          "text": "is"
+        },
+        {
+          "text": "why..."
+        }
+      ]
+    }
+  ]
+}
