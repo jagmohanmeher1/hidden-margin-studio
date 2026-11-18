@@ -85,31 +85,74 @@ def run_cmd(cmd: list[str], capture: bool = False) -> str:
     return (res.stdout or "") + (res.stderr or "")
 
 
-def publish_one(ep_code: str) -> None:
+def publish_one(ep_code: str, mode: str = "full") -> None:
     meta = EPISODE_CATALOG[ep_code]
     mp4_path = os.path.join(REPO_ROOT, meta["mp4"])
     timings_path = os.path.join(REPO_ROOT, meta["timings"])
 
     with open(timings_path, "r", encoding="utf-8") as f:
         duration_sec = float(json.load(f)["totalDurationSec"])
+    import math
+    total_frames = math.ceil(duration_sec * 60)
+    mid_frame = total_frames // 2
 
-    print(f"\n==================== {ep_code}: {meta['title']} ({duration_sec:.2f}s) ====================", flush=True)
-
-    # 1. Render 1080x1920 @ 60fps MP4
-    run_cmd(
-        [
-            "npx",
-            "remotion",
-            "render",
-            "src/index.ts",
-            meta["composition"],
-            meta["mp4"],
-            "--concurrency=2",
-            "--x264-preset=veryfast",
-            "--jpeg-quality=85",
-            "--browser-executable=/usr/bin/chromium",
-        ]
+    print(
+        f"\n==================== {ep_code} [{mode}]: {meta['title']} ({duration_sec:.2f}s / {total_frames}f) ====================",
+        flush=True,
     )
+
+    base_render = [
+        "npx",
+        "remotion",
+        "render",
+        "src/index.ts",
+        meta["composition"],
+        "--concurrency=2",
+        "--x264-preset=veryfast",
+        "--jpeg-quality=85",
+        "--browser-executable=/usr/bin/chromium",
+    ]
+
+    part1_rel = meta["mp4"].replace(".mp4", ".part1.mp4")
+    part2_rel = meta["mp4"].replace(".mp4", ".part2.mp4")
+    part1_abs = os.path.join(REPO_ROOT, part1_rel)
+    part2_abs = os.path.join(REPO_ROOT, part2_rel)
+
+    if mode == "part1":
+        run_cmd(base_render + [part1_rel, f"--frames=0-{mid_frame - 1}"])
+        print(f"PART 1 COMPLETE: {part1_rel} (0..{mid_frame - 1})", flush=True)
+        return
+    elif mode == "part2":
+        run_cmd(base_render + [part2_rel, f"--frames={mid_frame}-{total_frames - 1}"])
+        concat_list = os.path.join(REPO_ROOT, "out", f"{ep_code.lower()}_concat.txt")
+        with open(concat_list, "w", encoding="utf-8") as cf:
+            cf.write(f"file '{part1_abs}'\nfile '{part2_abs}'\n")
+        run_cmd(
+            [
+                "ffmpeg",
+                "-y",
+                "-hide_banner",
+                "-f",
+                "concat",
+                "-safe",
+                "0",
+                "-i",
+                concat_list,
+                "-c:v",
+                "copy",
+                "-c:a",
+                "aac",
+                "-b:a",
+                "192k",
+                mp4_path,
+            ]
+        )
+        for tmp_f in (part1_abs, part2_abs, concat_list):
+            if os.path.exists(tmp_f):
+                os.remove(tmp_f)
+    else:
+        # 1. Single-pass Render 1080x1920 @ 60fps MP4
+        run_cmd(base_render + [meta["mp4"]])
 
     # 2. Verify audio stream & loudness
     vol_out = run_cmd(
@@ -232,9 +275,18 @@ def publish_one(ep_code: str) -> None:
 
 
 def main() -> None:
-    targets = sys.argv[1:] or list(EPISODE_CATALOG.keys())
+    mode = "full"
+    args = []
+    for a in sys.argv[1:]:
+        if a == "--part1":
+            mode = "part1"
+        elif a == "--part2":
+            mode = "part2"
+        else:
+            args.append(a)
+    targets = args or list(EPISODE_CATALOG.keys())
     for ep in targets:
-        publish_one(ep.upper())
+        publish_one(ep.upper(), mode=mode)
 
 
 if __name__ == "__main__":
