@@ -5,5 +5,12 @@
   "googleDriveFolderUrl": "https://drive.google.com/drive/folders/12XNA0kVhccy1o_toWQNM9tQIvTFNDWNc",
   "publishingSpreadsheetTitle": "Hidden Margin — Video Publishing Hub",
   "publishingSpreadsheetId": "1XuEdAb-hchvJ1egNnzM9EeGEMO8kNJD1xZSHxkYiMXQ",
-  "publishingSpreadsheetUrl": "https://docs.google.com/spreadsheets/d/1XuEdAb-hchvJ1egNnzM9EeGEMO8kNJD1xZSHxkYiMXQ/edit"
+  "publishingSpreadsheetUrl": "https://docs.google.com/spreadsheets/d/1XuEdAb-hchvJ1egNnzM9EeGEMO8kNJD1xZSHxkYiMXQ/edit",
+  "episodes": {
+    "EP01": {
+      "title": "Starbucks' $2B Shadow Bank",
+      "driveFileId": "1xkq6kzYsSvzFuEmua5nFG0tWBCSY_YdV",
+      "driveFileUrl": "https://drive.google.com/file/d/1xkq6kzYsSvzFuEmua5nFG0tWBCSY_YdV/view"
+    }
+  }
 }
